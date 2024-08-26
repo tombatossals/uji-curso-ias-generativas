@@ -20,10 +20,36 @@
 * https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard (Evaluación open-source y reproducible en base a datasets)
 * https://artificialanalysis.ai/ (Comparativa visual entre modelos)
 
-
 ## 2. Imágenes
 ### 2.1 Principales modelos generativos de imágenes
 * https://www.midjourney.com/explore
 * https://openai.com/index/dall-e-3
 * https://stability.ai/
 * https://flux1.ai/ (Open Source, empresa europea)
+
+## 3. Audio
+* https://github.com/openai/whisper
+* https://elevenlabs.io/
+
+## 4. Video
+
+## 5. UI Conversacionales independientes del modelo
+### 5.1 Aplicación para usuario final
+* https://lmstudio.ai/ (Aplicación de escritorio, independiente del modelo y del hardware)
+* https://www.nvidia.com/en-us/ai-on-rtx/chatrtx (Aplicación de escritorio, modelo propietario y dependiente del hardware).
+
+### 5.2 Frameworks de desarrollo y ejecución de LLM's
+* https://ollama.com/
+
+## 6. Asistentes de código
+### Principales asistentes de código con versión pro de pago
+* https://github.com/features/copilot
+* https://www.tabnine.com/
+* https://meetcody.ai/
+* https://aider.chat/
+* https://www.continue.dev/
+* https://github.com/TabbyML/tabby
+
+## 7. Comunidades IA
+* https://tensor.art/
+* 
