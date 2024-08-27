@@ -57,4 +57,3 @@
 * https://huggingface.co/
 * https://civitai.com/
 * https://tensor.art/
-* 
