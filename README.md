@@ -32,7 +32,10 @@
 * https://elevenlabs.io/
 
 ## 4. Video
-
+* https://runwayml.com/
+* https://klingai.com/
+* https://www.vidu.studio/
+  
 ## 5. UI Conversacionales independientes del modelo
 ### 5.1 Aplicación para usuario final
 * https://lmstudio.ai/ (Aplicación de escritorio, independiente del modelo y del hardware)
@@ -51,5 +54,7 @@
 * https://github.com/TabbyML/tabby
 
 ## 7. Comunidades IA
+* https://huggingface.co/
+* https://civitai.com/
 * https://tensor.art/
 * 
