@@ -27,6 +27,9 @@
 * https://stability.ai/
 * https://flux1.ai/ (Open Source, empresa europea)
 
+## 2.2 Aplicaciones web de testeo de modelos
+* https://stablecog.com
+  
 ## 3. Audio
 * https://github.com/openai/whisper
 * https://elevenlabs.io/
