@@ -60,3 +60,4 @@
 * https://huggingface.co/
 * https://civitai.com/
 * https://tensor.art/
+* https://www.reddit.com/r/aivideo/
