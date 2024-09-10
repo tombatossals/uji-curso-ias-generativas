@@ -61,3 +61,5 @@
 * https://civitai.com/
 * https://tensor.art/
 * https://www.reddit.com/r/aivideo/
+* https://www.reddit.com/r/openai/
+* https://www.reddit.com/r/singularity/
