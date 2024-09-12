@@ -52,10 +52,16 @@
 * https://github.com/features/copilot
 * https://www.tabnine.com/
 * https://meetcody.ai/
+
+### Asistentes de código Open Source, que dependen de una API de pago
+* https://zed.dev
 * https://aider.chat/
 * https://www.continue.dev/
 * https://github.com/TabbyML/tabby
 
+### Documentación de Github Copilot
+* https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot
+  
 ## 7. Comunidades IA
 * https://huggingface.co/
 * https://civitai.com/
