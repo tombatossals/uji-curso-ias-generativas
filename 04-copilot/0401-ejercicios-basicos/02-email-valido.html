@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+    <title>Ejercicio: Número Primo</title>
+    <script>
+        // Tu código va aquí
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Ejercicio: Determinar si un email es válido a través de una expresión regular</h1>
+        <p>Edita el archivo HTML y dentro de la sección &lt;script&gt;...&lt;/script&gt; 
+            escribe una función en JavaScript que determine si un email es válido
+            con ayuda de Github Copilot.</p>
+        <button onclick="ejecutarPruebas()">Ejecutar pruebas</button>
+        <div id="errorLog">No hay errores todavía.</div>
+        <div id="resultado"></div>
+    </div>
+
+    <script>
+        function ejecutarPruebas() {
+            const resultadoDiv = document.getElementById('resultado');
+            resultadoDiv.style.display = 'block';
+            
+            // Casos de prueba
+            const pruebas = [
+                { entrada: 'asñlkdfa @uji.es', esperado: false },
+                { entrada: 'asñ@gmail.com', esperado: false },
+                { entrada: 'info@upv.es', esperado: true },
+                { entrada: 'marmota@marmota', esperado: false },
+                { entrada: 'tejon@uji.es,pangolin@uji.es', esperado: false },
+                { entrada: 'leon@uji.es', esperado: true },
+        ];
+
+            let resultados = '';
+            let todasPasaron = true;
+            
+            for (let prueba of pruebas) {
+                const resultado = esEmailValido(prueba.entrada);
+                const pasoPrueba = resultado === prueba.esperado;
+                todasPasaron = todasPasaron && pasoPrueba;
+                
+                resultados += `<p>Prueba para ${prueba.entrada}: ${pasoPrueba ? '✅ Pasó' : '❌ Falló'}</p>`;
+            }
+            
+            resultadoDiv.innerHTML = resultados;
+            resultadoDiv.innerHTML += todasPasaron 
+                ? '<p style="color: green;">¡Todas las pruebas pasaron!</p>'
+                : '<p style="color: red;">Algunas pruebas fallaron. Revisa tu código.</p>';
+        }
+    </script>
+</body>
+</html>
