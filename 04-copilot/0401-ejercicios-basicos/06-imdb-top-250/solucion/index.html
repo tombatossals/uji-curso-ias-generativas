@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IMDB Top 1000</title>
+    <link rel="stylesheet" href="styles.css" />
+    <!-- Incluir CSS de DataTables -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.css"
+    />
+    <!-- Incluir jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Incluir JS de DataTables -->
+    <script
+      type="text/javascript"
+      charset="utf8"
+      src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.js"
+    ></script>
+  </head>
+  <body>
+    <h1>IMDB Top 1000</h1>
+    <table id="imdb" class="display">
+      <thead>
+        <tr>
+          <th>Título</th>
+          <th>Año</th>
+          <th>Director</th>
+          <th>Nota</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <dialog id="modal"></dialog>
+    <script>
+      $(document).ready(function () {
+        $.getJSON("data.json", function (data) {
+          $("#imdb").DataTable({
+            data: data,
+            columns: [
+              { title: "Título", data: "title" },
+              { title: "Año", data: "year" },
+              { title: "Director", data: "Director" },
+              { title: "Nota", data: "IMDB_Rating" },
+            ],
+            pageLength: 50,
+          });
+
+          // Add click event listener to table rows
+          $("#imdb tbody").on("click", "tr", function () {
+            var rowData = $("#imdb").DataTable().row(this).data();
+            console.log(rowData);
+            showModal(rowData);
+          });
+
+          // Function to show modal with movie details
+          function showModal(data) {
+            var dialog = document.getElementById("modal");
+            dialog.innerHTML = `
+              <img style="float: right; width:120px;" src="${data.Poster_Link}" alt="${data.title}" />  
+              <h2>${data.title} (${data.year})</h2>
+              <p><strong>Director:</strong> ${data.Director}</p>
+              <p><strong>Nota:</strong> ${data.IMDB_Rating}</p>
+              <p><strong>Actores:</strong> ${data.Star1}</p>
+              <p style="max-width: 400px;"><strong>Descripción:</strong> ${data.Overview}</p>
+            <button onclick="document.getElementById('modal').close()">Cerrar</button>
+            `;
+            dialog.showModal();
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
