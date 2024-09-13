@@ -74,3 +74,9 @@
 * https://www.reddit.com/r/aivideo/
 * https://www.reddit.com/r/openai/
 * https://www.reddit.com/r/singularity/
+
+## Youtube
+* https://www.youtube.com/@DotCSV (Castellano)
+* https://www.youtube.com/@DotCSVLab (Castellano)
+* https://www.youtube.com/@AndrejKarpathy (Inglés)
+* https://www.youtube.com/@3blue1brown (Inglés)
