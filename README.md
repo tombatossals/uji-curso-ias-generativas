@@ -61,6 +61,11 @@
 
 ### Documentación de Github Copilot
 * https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot
+
+### Near Future
+* https://cosine.sh/genie
+* https://v0.dev/chat
+* https://replit.com/
   
 ## 7. Comunidades IA
 * https://huggingface.co/
