@@ -67,7 +67,8 @@
 * https://v0.dev/chat
 * https://replit.com/
   
-## 7. Comunidades IA
+## 7. Otros recursos
+### Comunidades IA
 * https://huggingface.co/
 * https://civitai.com/
 * https://tensor.art/
@@ -75,8 +76,11 @@
 * https://www.reddit.com/r/openai/
 * https://www.reddit.com/r/singularity/
 
-## Youtube
+### Creadores de contenido en Youtube
 * https://www.youtube.com/@DotCSV (Castellano)
 * https://www.youtube.com/@DotCSVLab (Castellano)
 * https://www.youtube.com/@AndrejKarpathy (Inglés)
 * https://www.youtube.com/@3blue1brown (Inglés)
+
+### Libros sobre IA
+* https://github.com/rasbt/LLMs-from-scratch
