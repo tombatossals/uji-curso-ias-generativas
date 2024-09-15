@@ -1,0 +1,12 @@
+# Descripción
+
+Queremos crear una simple aplicación web que el 100% de la pantalla sea un mapa
+(Open Street Maps o cualquier otro), y que al hacer click en algunas
+de las ciudades propuestas se muestre información sobre ella, como por ejemplo
+qué es lo más típico de esa ciudad.
+
+Propuesta:
+
+- Crear un JSON automáticamente con la lista de ciudades, coordenadas, y lo típico de la ciudad.
+- Crear un index.html que cumpla con los requisitos.
+- Depura el código mediante Copilot hasta conseguir el objetivo.

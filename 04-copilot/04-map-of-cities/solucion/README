@@ -1,0 +1,5 @@
+# Prompt en Claude
+
+quiero crear una página web en css puro y javacript puro que ell 100% del contenido sea la representación de un Google Maps. Tendrá tambien un desplegable de ciudades que cargará de un Json cities.json. Cuando se seleccione una ciudad, irá a sus coordenadas que estarán definidas en el JSON y mostrará un POPUP con un texto que también estará definido en el JSON.
+
+
