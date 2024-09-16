@@ -6,8 +6,8 @@ https://docs.github.com/es/copilot/managing-copilot/managing-copilot-as-an-indiv
 
 Básicamente, seguiremos estos pasos:
 
-* Si no lo tenemos ya, deberemos crearnos un usuario en GitHub asociado a nuestra dirección de correo electrónico UJI.
-* Si ya teníamos usuario Copilot pero en otro dominio diferente, podemos reaprovecharlo añadiendo una nueva dirección de correo asociada @uji.es
+* Si no lo tenemos ya, deberemos crearnos un usuario en GitHub asociado a nuestra dirección de correo electrónico UJI. (Es fundamental que el dominio sea @uji.es)
+* Si ya teníamos usuario GitHub pero con un correo en otro dominio diferente, podemos reaprovecharlo añadiendo una nueva dirección de correo asociada @uji.es
 
 Accedemos ahora a la página de solicitud de acceso:
 
