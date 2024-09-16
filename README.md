@@ -84,3 +84,8 @@
 
 ### Libros sobre IA
 * https://github.com/rasbt/LLMs-from-scratch
+
+## Privacidad y seguridad
+* https://trust.openai.com/
+* https://openai.com/enterprise-privacy/
+  
