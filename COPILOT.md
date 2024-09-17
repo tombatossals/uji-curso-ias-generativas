@@ -13,6 +13,6 @@ Accedemos ahora a la página de solicitud de acceso:
 
 https://education.github.com/
 
-Y procedemos a dar de alta una solicitud para que nos den las ventajas de estudiante/profesor/trabajador de comunidad universitaria. Nos pedirán una fotografía del carnet UJI, que incluiremos.
+Y procedemos a dar de alta una solicitud para que nos den las ventajas de estudiante/profesor/trabajador de comunidad universitaria. Poned como perfil solicitante "Student". Nos pedirán una fotografía del carnet UJI, que incluiremos.
 
 Si hemos seguido los pasos, en unas horas nos validarán la solicitud y dispondremos de acceso gratuito a Github Copilot.
