@@ -87,5 +87,6 @@
 
 ## Privacidad y seguridad
 * https://trust.openai.com/
-* https://openai.com/enterprise-privacy/
+* https://openai.com/enterprise-privacy/ (Política de privacidad Europea)
+* https://help.openai.com/en/articles/7730893-data-controls-faq (FAQ de control sobre los datos)
   
