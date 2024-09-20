@@ -62,6 +62,10 @@
 ### Documentación de Github Copilot
 * https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot
 
+### Copilot en la línea de comandos
+* https://cli.github.com/
+* https://github.com/github/gh-copilot
+  
 ### Near Future
 * https://cosine.sh/genie
 * https://v0.dev/chat
