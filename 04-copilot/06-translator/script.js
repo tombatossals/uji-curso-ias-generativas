@@ -17,7 +17,7 @@ async function translateText() {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': `Bearer <OPENAI_API_KEY>`
+            'Authorization': `Bearer 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`
         },
         body: JSON.stringify({
             model: 'gpt-4o-mini',
