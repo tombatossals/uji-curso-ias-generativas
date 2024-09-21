@@ -93,4 +93,5 @@
 * https://trust.openai.com/
 * https://openai.com/policies/privacy-policy/ (Política de privacidad Europea)
 * https://help.openai.com/en/articles/7730893-data-controls-faq (FAQ de control sobre los datos)
+* https://docs.github.com/es/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-copilot-policies-as-an-individual-subscriber
   
