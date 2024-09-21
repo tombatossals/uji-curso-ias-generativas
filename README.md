@@ -70,6 +70,7 @@
 * https://cosine.sh/genie
 * https://v0.dev/chat
 * https://replit.com/
+* https://githubnext.com/projects/copilot-workspace/
   
 ## 7. Otros recursos
 ### Comunidades IA
