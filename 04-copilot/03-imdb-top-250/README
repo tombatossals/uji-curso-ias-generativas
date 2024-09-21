@@ -10,7 +10,7 @@ Es recomendable dividir el proyecto en tareas más sencillas.
 1. Accede al dataset aquí: https://github.com/F-odt/IMDB_Top1000_Movies_Analysis
 2. Transformar el CSV a un JSON.
 3. Elegir la tecnología javascript y css, puede ser JS y CSS puro.
-4. Crear una funcion JS que al pasarle el nombre de una película nos devuelva la imagen de la portada llamando a la API de themoviedb.org.
+4. AVANZADO.Crear una funcion JS que al pasarle el nombre de una película nos devuelva la imagen de la portada llamando a la API de themoviedb.org.
 5. AVANZADO. Cambiar del formato tabular a un formato de mosaico de portadas.
 6. AVANZADO. Integrar la API de themoviedb.org para obtener una imagen de portada con más definición que mostraremos
 7. AVANZADO. Tener botones de cambio de tema claro/oscuro.

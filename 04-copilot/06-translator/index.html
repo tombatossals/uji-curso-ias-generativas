@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Traductor</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-gray-100">
+    <header class="bg-blue-500 text-white text-center py-4">
+      <h1 class="text-2xl font-bold">Traductor</h1>
+    </header>
+    <main class="container mx-auto mt-8">
+      <div class="flex flex-col md:flex-row justify-around items-center">
+        <div class="w-full md:w-1/2 p-4">
+          <label
+            for="language-selector"
+            class="block mb-2 text-sm font-medium text-gray-700"
+            >Autodetectar idioma</label
+          >
+          <textarea
+            id="language-selector"
+            class="w-full h-48 p-2 border border-gray-300 rounded"
+            placeholder="Texto original"
+          ></textarea>
+        </div>
+        <div class="w-full md:w-1/2 p-4">
+          <label
+            for="translated-language-selector"
+            class="block mb-2 text-sm font-medium text-gray-700"
+            >Seleccionar idioma traducido</label
+          >
+          <select
+            id="translated-language-selector"
+            class="w-full p-2 mb-4 border border-gray-300 rounded"
+          >
+            <option value="valenciano">Valenciano</option>
+            <option value="castellano">Castellano</option>
+            <option value="portugues">Portugués</option>
+          </select>
+          <textarea
+            id="translated-text-area"
+            class="w-full h-48 p-2 border border-gray-300 rounded"
+            placeholder="Texto traducido"
+            readonly
+          ></textarea>
+          <button
+            id="translate-button"
+            class="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-700"
+          >
+            Traducir
+          </button>
+        </div>
+      </div>
+    </main>
+  </body>
+  <script src="script.js"></script>
+</html>
