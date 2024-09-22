@@ -101,3 +101,5 @@
 * https://docs.github.com/es/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-copilot-policies-as-an-individual-subscriber
 * https://help.runwayml.com/hc/en-us/articles/18927776141715-Usage-rights
   
+## Tutoriales
+* https://education.civitai.com/start-making-generative-ai-art-with-civitai/
