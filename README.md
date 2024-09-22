@@ -84,6 +84,7 @@
 * https://www.reddit.com/r/aivideo/
 * https://www.reddit.com/r/openai/
 * https://www.reddit.com/r/singularity/
+* https://runwayml.com/gen48 (
 
 ### Creadores de contenido en Youtube
 * https://www.youtube.com/@DotCSV (Castellano)
