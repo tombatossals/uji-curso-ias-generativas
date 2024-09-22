@@ -94,9 +94,10 @@
 ### Libros sobre IA
 * https://github.com/rasbt/LLMs-from-scratch
 
-## Privacidad y seguridad
+## Privacidad, seguridad y autoría
 * https://trust.openai.com/
 * https://openai.com/policies/privacy-policy/ (Política de privacidad Europea)
 * https://help.openai.com/en/articles/7730893-data-controls-faq (FAQ de control sobre los datos)
 * https://docs.github.com/es/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-copilot-policies-as-an-individual-subscriber
+* https://help.runwayml.com/hc/en-us/articles/18927776141715-Usage-rights
   
