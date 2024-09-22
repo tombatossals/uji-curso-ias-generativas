@@ -86,6 +86,11 @@
 * https://www.reddit.com/r/singularity/
 * https://runwayml.com/gen48 (
 
+### APIs a LLM's gratuitas
+* https://cloud.sambanova.ai (llama3.1)
+* https://console.mistral.ai/codestral
+
+  
 ### Creadores de contenido en Youtube
 * https://www.youtube.com/@DotCSV (Castellano)
 * https://www.youtube.com/@DotCSVLab (Castellano)
