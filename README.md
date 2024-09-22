@@ -38,6 +38,9 @@
 * https://runwayml.com/
 * https://klingai.com/
 * https://www.vidu.studio/
+
+## 5. Buscadores
+* https://perplexity.ai
   
 ## 5. UI Conversacionales independientes del modelo
 ### 5.1 Aplicación para usuario final
@@ -71,6 +74,7 @@
 * https://v0.dev/chat
 * https://replit.com/
 * https://githubnext.com/projects/copilot-workspace/
+* https://openai.com/index/searchgpt-prototype/
   
 ## 7. Otros recursos
 ### Comunidades IA
