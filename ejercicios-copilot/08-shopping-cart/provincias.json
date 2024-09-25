@@ -1,0 +1,388 @@
+{
+  "provincias": [
+    {
+      "nombre": "Madrid",
+      "coordenadas": {
+        "latitud": 40.416775,
+        "longitud": -3.70379
+      },
+      "plato_tipico": "Cocido madrileño"
+    },
+    {
+      "nombre": "Barcelona",
+      "coordenadas": {
+        "latitud": 41.385064,
+        "longitud": 2.173404
+      },
+      "plato_tipico": "Pa amb tomàquet"
+    },
+    {
+      "nombre": "Valencia",
+      "coordenadas": {
+        "latitud": 39.469907,
+        "longitud": -0.376288
+      },
+      "plato_tipico": "Paella"
+    },
+    {
+      "nombre": "Sevilla",
+      "coordenadas": {
+        "latitud": 37.38863,
+        "longitud": -5.982329
+      },
+      "plato_tipico": "Gazpacho"
+    },
+    {
+      "nombre": "Zaragoza",
+      "coordenadas": {
+        "latitud": 41.648823,
+        "longitud": -0.889085
+      },
+      "plato_tipico": "Bacalao al ajoarriero"
+    },
+    {
+      "nombre": "Málaga",
+      "coordenadas": {
+        "latitud": 36.721274,
+        "longitud": -4.421399
+      },
+      "plato_tipico": "Espetos de sardinas"
+    },
+    {
+      "nombre": "Murcia",
+      "coordenadas": {
+        "latitud": 37.99224,
+        "longitud": -1.130654
+      },
+      "plato_tipico": "Zarangollo"
+    },
+    {
+      "nombre": "Palma",
+      "coordenadas": {
+        "latitud": 39.5696,
+        "longitud": 2.65016
+      },
+      "plato_tipico": "Sobrasada"
+    },
+    {
+      "nombre": "Las Palmas",
+      "coordenadas": {
+        "latitud": 28.123546,
+        "longitud": -15.436257
+      },
+      "plato_tipico": "Papas arrugadas"
+    },
+    {
+      "nombre": "Bilbao",
+      "coordenadas": {
+        "latitud": 43.263012,
+        "longitud": -2.934985
+      },
+      "plato_tipico": "Bacalao a la vizcaína"
+    },
+    {
+      "nombre": "A Coruña",
+      "coordenadas": {
+        "latitud": 43.362343,
+        "longitud": -8.41154
+      },
+      "plato_tipico": "Pulpo a la gallega"
+    },
+    {
+      "nombre": "Albacete",
+      "coordenadas": {
+        "latitud": 38.994349,
+        "longitud": -1.858542
+      },
+      "plato_tipico": "Gazpacho manchego"
+    },
+    {
+      "nombre": "Alicante",
+      "coordenadas": {
+        "latitud": 38.345996,
+        "longitud": -0.490686
+      },
+      "plato_tipico": "Arroz a banda"
+    },
+    {
+      "nombre": "Almería",
+      "coordenadas": {
+        "latitud": 36.834047,
+        "longitud": -2.463714
+      },
+      "plato_tipico": "Caldo quemao"
+    },
+    {
+      "nombre": "Ávila",
+      "coordenadas": {
+        "latitud": 40.65648,
+        "longitud": -4.700323
+      },
+      "plato_tipico": "Chuletón de Ávila"
+    },
+    {
+      "nombre": "Badajoz",
+      "coordenadas": {
+        "latitud": 38.879449,
+        "longitud": -6.970654
+      },
+      "plato_tipico": "Migas extremeñas"
+    },
+    {
+      "nombre": "Baleares",
+      "coordenadas": {
+        "latitud": 39.695263,
+        "longitud": 3.017571
+      },
+      "plato_tipico": "Ensaimada"
+    },
+    {
+      "nombre": "Burgos",
+      "coordenadas": {
+        "latitud": 42.343993,
+        "longitud": -3.696906
+      },
+      "plato_tipico": "Morcilla de Burgos"
+    },
+    {
+      "nombre": "Cáceres",
+      "coordenadas": {
+        "latitud": 39.475276,
+        "longitud": -6.372424
+      },
+      "plato_tipico": "Torta del Casar"
+    },
+    {
+      "nombre": "Cádiz",
+      "coordenadas": {
+        "latitud": 36.51638,
+        "longitud": -6.282841
+      },
+      "plato_tipico": "Pescaito frito"
+    },
+    {
+      "nombre": "Cantabria",
+      "coordenadas": {
+        "latitud": 43.182839,
+        "longitud": -3.987842
+      },
+      "plato_tipico": "Cocido montañés"
+    },
+    {
+      "nombre": "Castellón",
+      "coordenadas": {
+        "latitud": 39.986356,
+        "longitud": -0.051324
+      },
+      "plato_tipico": "Arroz al horno"
+    },
+    {
+      "nombre": "Ciudad Real",
+      "coordenadas": {
+        "latitud": 38.984829,
+        "longitud": -3.927376
+      },
+      "plato_tipico": "Pisto manchego"
+    },
+    {
+      "nombre": "Córdoba",
+      "coordenadas": {
+        "latitud": 37.888175,
+        "longitud": -4.779383
+      },
+      "plato_tipico": "Salmorejo"
+    },
+    {
+      "nombre": "Cuenca",
+      "coordenadas": {
+        "latitud": 40.070392,
+        "longitud": -2.137416
+      },
+      "plato_tipico": "Morteruelo"
+    },
+    {
+      "nombre": "Girona",
+      "coordenadas": {
+        "latitud": 41.9794,
+        "longitud": 2.821426
+      },
+      "plato_tipico": "Suquet de peix"
+    },
+    {
+      "nombre": "Granada",
+      "coordenadas": {
+        "latitud": 37.177336,
+        "longitud": -3.598557
+      },
+      "plato_tipico": "Tortilla del Sacromonte"
+    },
+    {
+      "nombre": "Guadalajara",
+      "coordenadas": {
+        "latitud": 40.633333,
+        "longitud": -3.166667
+      },
+      "plato_tipico": "Cabrito asado"
+    },
+    {
+      "nombre": "Guipúzcoa",
+      "coordenadas": {
+        "latitud": 43.312828,
+        "longitud": -1.97499
+      },
+      "plato_tipico": "Pintxos"
+    },
+    {
+      "nombre": "Huelva",
+      "coordenadas": {
+        "latitud": 37.261421,
+        "longitud": -6.944722
+      },
+      "plato_tipico": "Jamón de Jabugo"
+    },
+    {
+      "nombre": "Huesca",
+      "coordenadas": {
+        "latitud": 42.1401,
+        "longitud": -0.408898
+      },
+      "plato_tipico": "Pollo al chilindrón"
+    },
+    {
+      "nombre": "Jaén",
+      "coordenadas": {
+        "latitud": 37.779594,
+        "longitud": -3.784906
+      },
+      "plato_tipico": "Aceite de oliva"
+    },
+    {
+      "nombre": "León",
+      "coordenadas": {
+        "latitud": 42.598726,
+        "longitud": -5.567096
+      },
+      "plato_tipico": "Cecina"
+    },
+    {
+      "nombre": "Lleida",
+      "coordenadas": {
+        "latitud": 41.617588,
+        "longitud": 0.620015
+      },
+      "plato_tipico": "Caracoles a la llauna"
+    },
+    {
+      "nombre": "Lugo",
+      "coordenadas": {
+        "latitud": 43.012527,
+        "longitud": -7.555856
+      },
+      "plato_tipico": "Lacón con grelos"
+    },
+    {
+      "nombre": "Ourense",
+      "coordenadas": {
+        "latitud": 42.335787,
+        "longitud": -7.863881
+      },
+      "plato_tipico": "Empanada gallega"
+    },
+    {
+      "nombre": "Palencia",
+      "coordenadas": {
+        "latitud": 42.009685,
+        "longitud": -4.528801
+      },
+      "plato_tipico": "Lechazo asado"
+    },
+    {
+      "nombre": "Pontevedra",
+      "coordenadas": {
+        "latitud": 42.429884,
+        "longitud": -8.644362
+      },
+      "plato_tipico": "Mariscada"
+    },
+    {
+      "nombre": "La Rioja",
+      "coordenadas": {
+        "latitud": 42.287073,
+        "longitud": -2.539603
+      },
+      "plato_tipico": "Patatas a la riojana"
+    },
+    {
+      "nombre": "Salamanca",
+      "coordenadas": {
+        "latitud": 40.970104,
+        "longitud": -5.66354
+      },
+      "plato_tipico": "Hornazo"
+    },
+    {
+      "nombre": "Segovia",
+      "coordenadas": {
+        "latitud": 40.942906,
+        "longitud": -4.108806
+      },
+      "plato_tipico": "Cochinillo asado"
+    },
+    {
+      "nombre": "Soria",
+      "coordenadas": {
+        "latitud": 41.763601,
+        "longitud": -2.46492
+      },
+      "plato_tipico": "Torreznos"
+    },
+    {
+      "nombre": "Tarragona",
+      "coordenadas": {
+        "latitud": 41.118883,
+        "longitud": 1.244491
+      },
+      "plato_tipico": "Calçots"
+    },
+    {
+      "nombre": "Teruel",
+      "coordenadas": {
+        "latitud": 40.344627,
+        "longitud": -1.106434
+      },
+      "plato_tipico": "Jamón de Teruel"
+    },
+    {
+      "nombre": "Toledo",
+      "coordenadas": {
+        "latitud": 39.862831,
+        "longitud": -4.027323
+      },
+      "plato_tipico": "Carcamusas"
+    },
+    {
+      "nombre": "Valladolid",
+      "coordenadas": {
+        "latitud": 41.652251,
+        "longitud": -4.724532
+      },
+      "plato_tipico": "Lechazo"
+    },
+    {
+      "nombre": "Vizcaya",
+      "coordenadas": {
+        "latitud": 43.263012,
+        "longitud": -2.934985
+      },
+      "plato_tipico": "Bacalao a la vizcaína"
+    },
+    {
+      "nombre": "Zamora",
+      "coordenadas": {
+        "latitud": 41.503689,
+        "longitud": -5.74456
+      },
+      "plato_tipico": "Queso zamorano"
+    }
+  ]
+}

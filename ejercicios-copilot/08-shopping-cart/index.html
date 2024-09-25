@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Carrito de Compras</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="bg-gray-100">
+    <header class="bg-white shadow">
+      <nav
+        class="container mx-auto px-6 py-4 flex justify-between items-center"
+      >
+        <a href="#" class="font-bold text-xl">Tienda Moderna</a>
+        <div class="flex items-center">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 24 24"
+              fill="currentColor"
+              class="w-6 h-6"
+            >
+              <path
+                d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"
+              />
+            </svg>
+            <span class="cart-count text-gray-600 ml-2">0</span>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container mx-auto py-8">
+      <h1 class="text-2xl font-bold mb-4">Productos</h1>
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+    <div class="bg-white shadow-md rounded-lg overflow-hidden">
+      <img src="https://via.placeholder.com/300x200" alt="Producto 1" class="w-full">
+          <div class="p-4">
+            <h2 class="font-bold text-lg mb-2">Producto 1</h2>
+        <button class="add-to-cart bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+              Añadir al Carrito
+            </button>
+          </div>
+    </div>
+    <div class="bg-white shadow-md rounded-lg overflow-hidden">
+      <img src="https://via.placeholder.com/300x200" alt="Producto 2" class="w-full">
+          <div class="p-4">
+            <h2 class="font-bold text-lg mb-2">Producto 2</h2>
+        <button class="add-to-cart bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+              Añadir al Carrito
+            </button>
+          </div>
+    </div>
+  </div>
+    </main>
+<footer class="bg-gray-800 text-white py-8 fixed bottom-0 left-0 right-0">
+      <div class="container mx-auto px-6">
+        <p>&copy; 2023 Tienda Moderna. Todos los derechos reservados.</p>
+      </div>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>

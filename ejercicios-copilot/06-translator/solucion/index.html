@@ -56,6 +56,26 @@
         </div>
       </div>
     </main>
+    <div id="spinner">
+      <div>Cargando...</div>
+    </div>
+    <script src="script.js"></script>
   </body>
-  <script src="script.js"></script>
 </html>
+<script>
+  document
+    .getElementById("translate-button")
+    .addEventListener("click", function () {
+      // Muestra el spinner
+      document.getElementById("spinner").style.display = "flex";
+
+      // Simula una llamada a una API de traducción con un retraso
+      setTimeout(function () {
+        // Oculta el spinner después de la "traducción"
+        document.getElementById("spinner").style.display = "none";
+        // Aquí puedes agregar el código para actualizar el área de texto con la traducción
+        document.getElementById("translated-text-area").value =
+          "Texto traducido de ejemplo";
+      }, 2000); // Simula un retraso de 2 segundos
+    });
+</script>
