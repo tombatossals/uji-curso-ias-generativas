@@ -28,7 +28,13 @@ Vamos a hacer un laboratorio de programación donde seguiremos estos pasos:
 6. Ejercicio de codewars.com:
    6.1 Regístrate como usuario (gratuito) en codewars.com.
    6.2 Completa los siguientes ejercicios utilizando copilot:
-   - https://www.codewars.com/kata/578553c3a1b8d5c40300037c
-   - https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
-   - Isograma: https://www.codewars.com/kata/54ba84be607a92aa900000f1
+   - Java: https://www.codewars.com/kata/578553c3a1b8d5c40300037c
+   - Java: https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
+   - Java. Isograma: https://www.codewars.com/kata/54ba84be607a92aa900000f1
    - Shell: https://www.codewars.com/kata/51f2b4448cadf20ed0000386
+   - Java: https://www.codewars.com/kata/5259b20d6021e9e14c0010d4
+
+7. Ejercicios más complicados:
+   https://exercism.org
+
+
