@@ -12,8 +12,11 @@ Vamos a hacer un laboratorio de programación donde seguiremos estos pasos:
 
 4. Ejercicios iniciales:
    4.1 descarga el repositorio de los ejercicios:
-   $ git clone git@github.com:tombatossals/uji-curso-ias-generativas.git
 
+   ```sh
+   $ git clone git@github.com:tombatossals/uji-curso-ias-generativas.git
+   ```
+   
    4.2 Accede a los ejercicios iniciales:
    $ cd uji-curso-ias-generativas/ejercicios-copilot/01-ejercicios-basicos
 
@@ -21,11 +24,11 @@ Vamos a hacer un laboratorio de programación donde seguiremos estos pasos:
 
    4.4 Continúa con el resto de ejercicios básicos.
 
-5. Configuración de VSCODE con Continue.dev
+6. Configuración de VSCODE con Continue.dev
    3.1 Primero deberemos deshabilitar la extensión de Github Copilot.
    3.2 Activaremos la extensión de Continue.dev, por defecto nos ofrece acceso a Claude Sonnet y Qwen2. Podemos activar fácilmente enganches con Codestral, o en local con Ollama.
 
-6. Ejercicio de codewars.com:
+7. Ejercicio de codewars.com:
    6.1 Regístrate como usuario (gratuito) en codewars.com.
    6.2 Completa los siguientes ejercicios utilizando copilot:
    - Java: https://www.codewars.com/kata/578553c3a1b8d5c40300037c
@@ -34,7 +37,7 @@ Vamos a hacer un laboratorio de programación donde seguiremos estos pasos:
    - Shell: https://www.codewars.com/kata/51f2b4448cadf20ed0000386
    - Java: https://www.codewars.com/kata/5259b20d6021e9e14c0010d4
 
-7. Ejercicios más complicados:
+8. Ejercicios más complicados:
    https://exercism.org
 
 
