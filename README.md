@@ -109,5 +109,7 @@
   
 ## Tutoriales
 * https://education.civitai.com/start-making-generative-ai-art-with-civitai/
+* https://www.cloudskillsboost.google/paths/118
 * https://www.cloudskillsboost.google/course_templates/536?locale=es
+* https://v2.scrimba.com/intro-to-mistral-ai-c035
 
