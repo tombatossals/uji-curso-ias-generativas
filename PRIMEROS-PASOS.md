@@ -29,8 +29,8 @@
 ### Modelo Freemium
 * https://getimg.ai
 * https://leonardo.ai
-  
-### Sólo modalidad de pago
+
+### Sólo modalidad de pago
 * https://midjourney.ai
 * Dall-E (https://chatgpt.com, 20€ mes)
   
