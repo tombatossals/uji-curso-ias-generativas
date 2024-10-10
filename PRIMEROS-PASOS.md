@@ -21,3 +21,16 @@
 
 # Por llegar
 * SearchGPT (https://openai.com/index/searchgpt-prototype/)
+
+## Plataformas de IA's generativas de imágenes
+### Gratuitas
+* https://copilot.microsoft.com
+  
+### Modelo Freemium
+* https://getimg.ai
+* https://leonardo.ai
+* https://midjourney.ai
+  
+### Sólo modalidad de pago
+* Dall-E (https://chatgpt.com, 20€ mes)
+  
