@@ -25,6 +25,10 @@
 # Por llegar
 * SearchGPT (https://openai.com/index/searchgpt-prototype/)
 
+## Audio
+### Gratuito
+* Eleven Labs Reader (IIReader, Android & IOS)
+  
 ## Plataformas de IA's generativas de imágenes
 ### Open Source
 * FLUX (https://blackforestlabs.ai/)
@@ -40,6 +44,11 @@
 * https://midjourney.ai
 * Dall-E (https://chatgpt.com, 20€ mes)
 
+## Plataformas de IA's generativas de video
+### Gratuitas
+* https://hailuoai.com/ (minimax)
+
+  
 ## 7. Otros recursos
 ### Comunidades IA
 * https://huggingface.co/
