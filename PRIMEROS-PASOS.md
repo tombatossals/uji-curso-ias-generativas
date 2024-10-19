@@ -12,7 +12,9 @@
 
 ### Mención especial
 * NotebookLM de Google (https://notebooklm.google.com)
-* 
+* Consensus (https://consensus.app/search/)
+* Perplexity (https://perplexity.ai)
+  
 ## Integración con suites de ofimática
 ### De pago
 * Office 365 + Copilot Pro (28€ + 22€ mes). (https://www.microsoft.com/es-es/store/b/copilotpro)
