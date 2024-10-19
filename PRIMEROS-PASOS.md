@@ -14,6 +14,7 @@
 * NotebookLM de Google (https://notebooklm.google.com)
 * Consensus (https://consensus.app/search/)
 * Perplexity (https://perplexity.ai)
+* Minimax (https://hailuoai.video/)
   
 ## Integración con suites de ofimática
 ### De pago
