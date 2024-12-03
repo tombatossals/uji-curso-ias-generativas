@@ -62,6 +62,9 @@
 * https://www.reddit.com/r/singularity/
 * https://runwayml.com/gen48 
 
+# Debate sobre legalidad y ética de la tecnología
+* https://twitter.com/ArteEsEtica
+
 ### Creadores de contenido en Youtube
 * https://www.youtube.com/@DotCSV (Castellano)
 * https://www.youtube.com/@DotCSVLab (Castellano)
