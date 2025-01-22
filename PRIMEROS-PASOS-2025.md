@@ -61,6 +61,7 @@
 * https://www.youtube.com/@3blue1brown (Inglés)
 
 ## Privacidad, seguridad y autoría
+* https://www.uc3m.es/uc3m/media/uc3m/doc/archivo/doc_guia_uso_ia-generativa_empleados_publicos/guia-ia-generativa-empleados-publicos.pdf
 * [https://trust.openai.com/](https://www.gemini.com/es-la/legal/privacy-policy#section-2-los-fines-empresariales-y-comerciales-para-los-que-recopilamos-y-utilizamos-tu-informacion-personal)
 * https://openai.com/policies/privacy-policy/ (Política de privacidad Europea)
 * https://help.openai.com/en/articles/7730893-data-controls-faq (FAQ de control sobre los datos)
