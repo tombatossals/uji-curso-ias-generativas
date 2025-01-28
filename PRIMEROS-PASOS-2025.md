@@ -6,6 +6,7 @@
 * ChatGPT (https://chatgpt.com)
 * Claude (https://claude.ai)
 * Copilot (https://copilot.microsoft.com)
+* DeepSeek (https://deepseek.com)
 
 ### Mención especial
 * NotebookLM de Google (https://notebooklm.google.com)
