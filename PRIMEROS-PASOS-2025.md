@@ -14,17 +14,13 @@
 * Perplexity (https://perplexity.ai)
 * Minimax (https://hailuo.ai/)
   
-## Integración con suites de ofimática
-### De pago
-* Office 365 + Copilot Pro (28€ + 22€ mes). (https://www.microsoft.com/es-es/store/b/copilotpro)
-* Google Docs + Gemini (20€ mes). (https://one.google.com/about/ai-premium/)
-
 ## Plataformas de IA's generativas de imágenes
 ### Gratuitas
 * https://gemini.google.com
 * https://copilot.microsoft.com
   
 ### Modelo Freemium
+* https://chat.com
 * https://getimg.ai
 * https://leonardo.ai
 
@@ -58,6 +54,7 @@
 ### Creadores de contenido en Youtube
 * https://www.youtube.com/@DotCSV (Castellano)
 * https://www.youtube.com/@DotCSVLab (Castellano)
+* https://www.youtube.com/@la_inteligencia_artificial (Castellano)
 * https://www.youtube.com/@AndrejKarpathy (Inglés)
 * https://www.youtube.com/@3blue1brown (Inglés)
 
