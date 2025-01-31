@@ -10,7 +10,7 @@
 
 ### Mención especial
 * NotebookLM de Google (https://notebooklm.google.com)
-* Napking (https://napkin.ai)
+* Napkin (https://napkin.ai)
 * Perplexity (https://perplexity.ai)
 * Minimax (https://hailuo.ai/)
   
