@@ -38,6 +38,9 @@
 ## Otros recursos
 ### Buscador de IAs
 * https://theresanaiforthat.com/
+
+### Buscador de Prompts
+* https://prompts.chat/
   
 ### Comunidades IA
 * https://www.reddit.com/r/aivideo/
