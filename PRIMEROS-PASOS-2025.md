@@ -1,4 +1,4 @@
-# Servicios de IA's generativas, ordenados por modelo de negocio, tipo e importancia
+# Enlaces del curso
 
 ## Grandes modelos de lenguaje
 ### Acceso vía web o App de movil, modalidad Freemium con registro de usuario
