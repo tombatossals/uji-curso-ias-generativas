@@ -1,5 +1,9 @@
 # Enlaces del curso
 
+# Guías prompting
+## Google: https://services.google.com/fh/files/misc/learnlm_prompt_guide.pdf
+## OpenAI https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide
+
 ## Grandes modelos de lenguaje
 ### Acceso vía web o App de movil, modalidad Freemium con registro de usuario
 * Gemini (https://gemini.google.com)
@@ -8,7 +12,7 @@
 * Copilot (https://copilot.microsoft.com)
 * DeepSeek (https://deepseek.com)
 
-### Mención especial
+### Otros entornos específicos relevantes
 * NotebookLM de Google (https://notebooklm.google.com)
 * Napkin (https://napkin.ai)
 * Perplexity (https://perplexity.ai)
