@@ -2,7 +2,9 @@
 
 # Guías prompting
 * Google: https://services.google.com/fh/files/misc/learnlm_prompt_guide.pdf
-* OpenAI https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide
+* OpenAI: https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide
+* Microsoft: https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5
+* Grok: https://docs.x.ai/docs/guides/grok-code-prompt-engineering
 
 ## Grandes modelos de lenguaje
 ### Acceso vía web o App de movil, modalidad Freemium con registro de usuario
