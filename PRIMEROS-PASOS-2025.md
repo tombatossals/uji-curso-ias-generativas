@@ -23,24 +23,11 @@
   
 ## Plataformas de IA's generativas de imágenes
 ### Gratuitas
-* https://gemini.google.com
-* https://copilot.microsoft.com
+* https://gemini.google.com (Nano Banana)
+* https://chatgpt.google.com  
   
-### Modelo Freemium
-* https://chat.com
-* https://getimg.ai
-* https://leonardo.ai
-
-### Sólo modalidad de pago
-* https://midjourney.ai
-* Dall-E (https://chatgpt.com, 20€ mes)
-
 ## Plataformas de IA's generativas de video
-* https://hailuoai.com/ (minimax) (Gratuita)
-* https://deepmind.google/technologies/veo/veo-2/ (Google) (No disponible en la UE)
-* Sora de OpenAI. https://openai.com/sora/ (No disponible en la UE).
-* https://klingai.com/
-* https://runwayml.com/
+* https://labs.google/flow/about (Veo 3 y Flow de Google)
   
 ## Otros recursos
 ### Buscador de IAs
