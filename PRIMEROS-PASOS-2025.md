@@ -5,8 +5,8 @@
 * OpenAI: https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide
 * Microsoft: https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5
 * Grok: https://docs.x.ai/docs/guides/grok-code-prompt-engineering
-* https://oa.upm.es/82775/1/ChatGPT_Tus_primeros_prompts_con_100_ejemplos.pdf
-
+* 100 ejemplos de prompting, publicación gratuita y libre de la Universidad Carlos 3º: https://e-archivo.uc3m.es/entities/publication/136359a2-3b43-4b0a-b7c9-d80c9c955cce
+  
 ## Grandes modelos de lenguaje
 ### Acceso vía web o App de movil, modalidad Freemium con registro de usuario
 * Gemini (https://gemini.google.com)
