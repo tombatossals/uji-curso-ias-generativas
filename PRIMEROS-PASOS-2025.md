@@ -30,6 +30,9 @@
 * https://labs.google/flow/about (Veo 3 y Flow de Google)
   
 ## Otros recursos
+### Repositorio de estudio de prompts
+* https://github.com/friuns2/Leaked-GPTs
+  
 ### Buscador de IAs
 * https://theresanaiforthat.com/
 
