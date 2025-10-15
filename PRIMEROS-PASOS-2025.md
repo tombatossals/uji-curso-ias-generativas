@@ -64,4 +64,5 @@
 * https://openai.com/policies/privacy-policy/ (Política de privacidad Europea)
 * https://docs.github.com/es/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-copilot-policies-as-an-individual-subscriber
 * https://help.runwayml.com/hc/en-us/articles/18927776141715-Usage-rights
+* https://github.com/friuns2/Leaked-GPTs
   
