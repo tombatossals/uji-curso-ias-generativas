@@ -6,6 +6,10 @@
 * Microsoft: https://support.microsoft.com/en-us/topic/learn-about-copilot-prompts-f6c3b467-f07c-4db1-ae54-ffac96184dd5
 * Grok: https://docs.x.ai/docs/guides/grok-code-prompt-engineering
 * 100 ejemplos de prompting, publicación gratuita y libre de la Universidad Carlos 3º: https://e-archivo.uc3m.es/entities/publication/136359a2-3b43-4b0a-b7c9-d80c9c955cce
+
+## Prompting para generación de imágenes
+* Guía oficial de Google: https://ai.google.dev/gemini-api/docs/image-generation?hl=es-419#prompt-guide
+* https://www.bananaprompts.xyz
   
 ## Grandes modelos de lenguaje
 ### Acceso vía web o App de movil, modalidad Freemium con registro de usuario
@@ -30,7 +34,8 @@
 * https://labs.google/flow/about (Veo 3 y Flow de Google)
   
 ## Otros recursos
-### Repositorio de estudio de prompts
+### Repositorio de estudio de prompts
+
 * https://github.com/friuns2/Leaked-GPTs
   
 ### Buscador de IAs
