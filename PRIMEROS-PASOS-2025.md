@@ -7,6 +7,9 @@
 * Grok: https://docs.x.ai/docs/guides/grok-code-prompt-engineering
 * 100 ejemplos de prompting, publicación gratuita y libre de la Universidad Carlos 3º: https://e-archivo.uc3m.es/entities/publication/136359a2-3b43-4b0a-b7c9-d80c9c955cce
 
+### Repositorio de estudio de prompts
+* https://github.com/friuns2/Leaked-GPTs
+
 ## Prompting para generación de imágenes
 * Guía oficial de Google: https://ai.google.dev/gemini-api/docs/image-generation?hl=es-419#prompt-guide
 * https://www.bananaprompts.xyz
@@ -23,24 +26,7 @@
 * NotebookLM de Google (https://notebooklm.google.com)
 * Napkin (https://napkin.ai)
 * Perplexity (https://perplexity.ai)
-* Minimax (https://hailuo.ai/)
   
-## Plataformas de IA's generativas de imágenes
-### Gratuitas
-* https://gemini.google.com (Nano Banana)
-* https://chatgpt.google.com  
-  
-## Plataformas de IA's generativas de video
-* https://labs.google/flow/about (Veo 3 y Flow de Google)
-  
-## Otros recursos
-### Repositorio de estudio de prompts
-
-* https://github.com/friuns2/Leaked-GPTs
-  
-### Buscador de IAs
-* https://theresanaiforthat.com/
-
 ### Buscador de Prompts
 * https://prompts.chat/
   
