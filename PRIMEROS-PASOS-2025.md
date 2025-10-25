@@ -1,6 +1,7 @@
 # Enlaces del curso
 
 # Guías prompting
+* Google: Qué es el Prompt-Engineering. https://cloud.google.com/discover/what-is-prompt-engineering?hl=es-419
 * Google: https://services.google.com/fh/files/misc/learnlm_prompt_guide.pdf
 * Google: https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf
 * OpenAI: https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide
@@ -25,6 +26,7 @@
 
 ### Otros entornos específicos relevantes
 * NotebookLM de Google (https://notebooklm.google.com)
+* Generación de vídeo: https://labs.google/fx/es/tools/flow
 * Napkin (https://napkin.ai)
 * Perplexity (https://perplexity.ai)
   
