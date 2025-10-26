@@ -10,6 +10,7 @@
 * 100 ejemplos de prompting, publicación gratuita y libre de la Universidad Carlos 3º: https://e-archivo.uc3m.es/entities/publication/136359a2-3b43-4b0a-b7c9-d80c9c955cce
 
 ### Repositorio de estudio de prompts
+* https://github.com/asgeirtj/system_prompts_leaks
 * https://github.com/friuns2/Leaked-GPTs
 
 ## Prompting para generación de imágenes
